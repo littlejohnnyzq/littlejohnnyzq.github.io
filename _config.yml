@@ -3,7 +3,7 @@ title: Johnny
 subtitle: by HTML5
 email: littlejohnnyzq@icloud.com
 description: 小囧尼是个不牛逼但热爱生活的设计狮<br /> 开心过每一天,用心做每件事.
-baseurl: "/Johnny-blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 余杭 . 闲林山水
