@@ -1,21 +1,21 @@
 # site settings
 title: Johnny
 subtitle: by HTML5
-email: littlejohnnyzq@icloud.com
-description: 小囧尼是个不牛逼但热爱生活的设计狮<br /> 开心过每一天,用心做每件事.
-baseurl: "/" # the subpath of your site, e.g. /blog
+email: ltjnzq@163.com
+description: 一个不牛逼但热爱生活的设计狮.  </br>
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 余杭 . 闲林山水
-city: 杭州
-state: 浙江
-zip_code: 55555
-country: 中国
+street_address: 浙江 . 杭州 . 天目山西路 . 闲林山水
+city:
+state:
+zip_code:
+country:
 phone: (+86)18521092332
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
