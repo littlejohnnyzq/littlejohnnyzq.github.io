@@ -10,6 +10,7 @@
 		@include icon;
 		border-bottom: none;
 		position: relative;
+		padding-right: 2em;
 
 		> .label {
 			display: none;
@@ -18,7 +19,7 @@
 		&.alt {
 			&:before {
 				background-color: _palette(fg-bold);
-				border-radius: 100%;
+				border-radius: 50%;
 				color: _palette(bg);
 				display: inline-block;
 				height: 2em;
@@ -27,6 +28,9 @@
 				width: 2em;
 			}
 		}
+	}
+	.icon span {
+		margin: 1em;
 	}
 
 	a.icon {

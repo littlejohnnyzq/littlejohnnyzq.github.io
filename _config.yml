@@ -2,6 +2,7 @@
 title: Johnny
 subtitle: walk
 email: ltjnzq@163.com
+github: littlejohnnyzq
 description: 一个不牛逼但热爱生活的设计狮.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -19,8 +20,8 @@ tiles-count: 8
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
+dribbble_url: https://dribbble.com
+github_url: https://github.com/littlejohnnyzq
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
