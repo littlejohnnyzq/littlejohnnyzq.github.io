@@ -10,7 +10,6 @@
 		@include icon;
 		border-bottom: none;
 		position: relative;
-		padding-right: 2em;
 
 		> .label {
 			display: none;
@@ -30,7 +29,7 @@
 		}
 	}
 	.icon span {
-		margin: 1em;
+		margin-left: 1em;
 	}
 
 	a.icon {
