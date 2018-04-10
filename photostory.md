@@ -1,7 +1,8 @@
 ---
 title: 我爱照相
 layout: photostory
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '开局一张图,故事全靠"编",小时候每到快收割的季节,就会有一个编竹具的手艺人挨村挨户来卖手艺,因为总有些人家的箩筐簸箕坏了需要修补换新,我喜欢看新砍下
+的竹子在他锋利的小柴刀下很快变成成了细长的竹篾,再编成箩筐、簸箕、菜篮等等等等,一切都显得很神奇。所以,我喜欢"编"这个字。'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
