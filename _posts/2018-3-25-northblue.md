@@ -5,7 +5,7 @@ description: 智能医疗,无创测血糖
 image: assets/images/pic01.jpg
 ---
 
-<a href="https://littlejohnnyzq.github.io/NorthBlue/" class="button next scrolly">演示模型</a>
+<a href="https://littlejohnnyzq.github.io/NorthBlue/" target="blank" class="button next scrolly">演示模型</a>
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
