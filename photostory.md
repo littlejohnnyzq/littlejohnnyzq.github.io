@@ -24,8 +24,9 @@ nav-menu: true
 				<header class="major">
 					<h3>时光静止.你我流逝</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-
+                <p>“Time goes,you say?Ah no!,Time stays,we go.”我忘记了是从xialala哪个id里看到的这条签名,但记住了这句诗。
+                在玉渊潭匆忙拍下的这张失败的糊照,总会在我想挑一张照片的时候跳出来,每次看到它都会想到流逝的时间,哦不,流逝的我们。
+                </p>
 			</div>
 		</div>
 	</section>
@@ -38,8 +39,8 @@ nav-menu: true
 				<header class="major">
 					<h3>福如东海</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-
+                <p>这地方,&nbsp;&nbsp;拆了。
+                </p>
 			</div>
 		</div>
 	</section>
@@ -52,7 +53,9 @@ nav-menu: true
     				<header class="major">
     					<h3>老北京</h3>
     				</header>
-    				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>右下角那个喝茶的老头在咕噜,我有时喝水也有这习惯,尤其是当我觉得口腔不是很清爽的时候,水在咽下之前先在口腔咕噜两下,结果被鄙视了,说这个习惯特别特别恶心,真的。
+                略尴尬,为了维护尊严,我说这很科学,喝水咕噜两下恶心,那吃饭还嚼那么多下呢,恶心不恶心~~~~哦哈哈
+                </p>
     			</div>
     		</div>
     	</section>
@@ -65,7 +68,8 @@ nav-menu: true
     				<header class="major">
     					<h3>小巷</h3>
     				</header>
-    				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>借一句逼哥的歌词——"她说她喜欢郑州冬天的阳光,巷子里飘满煤炉的味道"。
+                </p>
     			</div>
     		</div>
     	</section>
@@ -76,9 +80,10 @@ nav-menu: true
     		<div class="content">
     			<div class="inner">
     				<header class="major">
-    					<h3>仰望</h3>
+    					<h3>远山</h3>
     				</header>
-    				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>别问我这是什么,我会很没底气的说这应该是藏山羊,吧。作为空洞派青年,不需要知道那么多,放空,呼吸,就对了。在这个海拔,一点都不用担心醉氧,真的。
+                </p>
     			</div>
     		</div>
     	</section>
