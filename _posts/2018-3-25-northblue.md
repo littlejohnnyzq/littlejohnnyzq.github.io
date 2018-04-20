@@ -7,6 +7,8 @@ image: assets/images/pic01.jpg
 
 <a href="https://littlejohnnyzq.github.io/NorthBlue/" target="blank" class="button next scrolly">演示模型</a>
 
+ [为保证PC端浏览器可阅读性,该模型在手机端显示较小,在有效内容区域轻击2下即可放大]
+
 这是一个无创测血糖手环项目    <br/>
 我妈血糖偏高,给她买过一个血糖仪,每天扎针取血,又疼又麻烦。所以当我看到这个项目,第一反应是:卧槽,牛逼!    <br/>
 就像其他手环一样,戴在手腕上,当你想知道你现在的血糖情况,按下手环上的一个小按钮,半分钟后就可以在app里看到数据了。
