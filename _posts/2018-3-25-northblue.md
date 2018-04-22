@@ -6,7 +6,7 @@ image: assets/images/pic01.jpg
 ---
 
 <a href="https://littlejohnnyzq.github.io/NorthBlue/" target="blank" class="button next scrolly">演示模型[电脑访问]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://littlejohnnyzq.github.io/NorthBlue_M/" target="blank" class="button next scrolly">演示模型[手机访问]</a>
+<a href="https://littlejohnnyzq.github.io/NorthBlue_M/" target="blank" class="button next scrolly">演示模型[手机访问]</a>    <br/>
 手机访问模型若左侧出现页面列表,点击左下角[close]关闭即可正常访问    <br/>
 
 这是一个无创测血糖手环项目    <br/>
