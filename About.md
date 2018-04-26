@@ -11,5 +11,6 @@ nav-menu: true
  &emsp;&emsp;&emsp;&emsp;——顾城.[简历]    <br/>
      <br/>
      <br/>
+     <a href="https://littlejohnnyzq.github.io/Johnny_UI_Resume.docx/" class="button next scrolly">简历下载[Word]</a>
      <br/>
-<a href="https://littlejohnnyzq.github.io/Johnny_UI_Resume.docx/" class="button next scrolly">简历下载[word]</a>
+     <a href="https://littlejohnnyzq.github.io/Johnny_UI_Resume.docx/" class="button next scrolly">作品集下载[PDF]</a>
