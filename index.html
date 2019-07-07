@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script language="JavaScript">
+        pushHistory();
+
+        function pushHistory() {
+            var state1 = {
+                title: "十年纷飞.再聚一回",
+                url: "#"
+            };
+            window.history.pushState(state1, "title", "#");
+        }
+    </script>
+    <meta charset="UTF-8">
+    <title>十年纷飞.再聚一回</title>
+    <link href="main.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="tittle">
+    <p class="p0">0</p>
+    <p class="p5">5</p>
+    <p class="p6">6</p>
+    <p class="pban">班</p>
+</div>
+<div class="years"><span>2<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></span>
+    <span>0<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></span>
+    <span id="aY1">0<br/>1<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></span>
+    <span id="aY9">9<br/>0<br/>1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9</span></div>
+<!--<div id="text" style="font-size: 36pt;text-align: center;color: #000;font-weight: bolder;">
+</div>-->
+<div class="cover">
+    <div class="coverpic"></div>
+</div>
+<div style="position: relative">
+    <div class="typebox">
+    <span id="typed"></span>
+    </div>
+    <div class="typebox1">
+        <span id="typed1"></span>
+    </div>
+    <div class="typebox2">
+        <span id="typed2"></span>
+    </div>
+</div>
+<div class="come">
+</div>
+<a href="http://www.omlzz.com/index.php/toupiao/toupiao/h5/index?vid=wp76x1zonl4ndyk" class="tocase">十周年聚会方案详情->></a>
+</div>
+
+</body>
+<script language="JavaScript">
+    //预设的文字
+    var text = '转眼十年。<br><br>'
+        + '会不会想起回老地方看看，<br><br>'
+        + '又不希望就自己一人。<br>'
+    //文字出现的时间间隔
+    var delay = 120 ;
+    //初始化变量 i
+    var i = 0 ;
+    function writeText(){
+        var typed = document.getElementById('typed');
+        //设置 id 为 demo 的对象内的文字为从变量 text 的 0 开始到 i 间的文字加"_"
+        typed.innerHTML = text.slice(0,i++) + "_" ;
+        if ( i > text.length ) { //当 i 大于 text 的文本长度时
+            i = 0 ; //重设 i 为 0，使文字重新从第一个文字出现
+
+            //延时执行writeText()函数,12秒时候重新执行
+            setTimeout("writeText()",3200) ;
+
+        } else {
+            //否则在delay毫秒后再次执行writeText()函数
+            setTimeout("writeText()",delay) ;
+        }
+    }
+
+    writeText() ;//调用writeText()函数
+</script>
+<script language="JavaScript">
+    //预设的文字
+    var text1 = '周年是个适合矫情的契机，<br><br>'
+        + '去一个想去又嫌麻烦的地方，<br><br>'
+        + '见一些想见又怕打扰的朋友。<br>'
+    //文字出现的时间间隔
+    var delay1 = 120 ;
+    //初始化变量 i
+    var i1 = 0 ;
+    function writeText1(){
+        var typed = document.getElementById('typed1');
+        //设置 id 为 demo 的对象内的文字为从变量 text 的 0 开始到 i 间的文字加"_"
+        typed1.innerHTML = text1.slice(0,i1++) + "_" ;
+        if ( i1 > text1.length ) { //当 i 大于 text 的文本长度时
+            i1 = 0 ; //重设 i 为 0，使文字重新从第一个文字出现
+
+            //延时执行writeText()函数,12秒时候重新执行
+            setTimeout("writeText1()",9800) ;
+
+        } else {
+            //否则在delay毫秒后再次执行writeText()函数
+            setTimeout("writeText1()",delay1) ;
+        }
+    }
+
+    writeText1() ;//调用writeText()函数
+</script>
+<script language="JavaScript">
+    //预设的文字
+    var text2 = '人生几何。<br><br>'
+        + '不想做的事情不能勉强，<br><br>'
+        + '想做的事情也不怕麻烦，<br><br>'
+        + '干了这碗鸡汤，我的同学。<br>'
+    //文字出现的时间间隔
+    var delay2 = 120 ;
+    //初始化变量 i
+    var i2 = 0 ;
+    function writeText2(){
+        var typed2 = document.getElementById('typed2');
+        //设置 id 为 demo 的对象内的文字为从变量 text 的 0 开始到 i 间的文字加"_"
+        typed2.innerHTML = text2.slice(0,i2++) + "_" ;
+
+        if ( i2 > text2.length ) { //当 i 大于 text 的文本长度时
+            i2 = 0 ; //重设 i 为 0，使文字重新从第一个文字出现
+
+            //延时执行writeText()函数,12秒时候重新执行
+            setTimeout("writeText2()",17900) ;
+
+        } else {
+            //否则在delay毫秒后再次执行writeText()函数
+            setTimeout("writeText2()",delay2) ;
+        }
+    }
+
+    writeText2() ;//调用writeText()函数
+</script>
+</html>
