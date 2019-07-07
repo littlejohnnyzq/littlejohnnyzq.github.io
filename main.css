@@ -91,7 +91,7 @@ body{
     width: 100%;
     margin-top: 20%;
     text-align: center;
-    color: #fff;
+    color: #000;
     font-size: 4em;
     height: 1.1em;
     overflow: hidden;
@@ -107,7 +107,7 @@ body{
 .years span{
     display: inline-block;
     border: #ffffff solid 1px;
-    background: #000;
+    background: #d8d8d8;
     padding: 0 16px;
     left: 50%;
 }
@@ -162,8 +162,8 @@ body{
     text-align: left;
     position: absolute;
     color: #000;
-    font-size: 2.4em;
-    line-height: 1.2em;
+    font-size: 2.6em;
+    line-height: 1em;
     opacity: 0;
     animation: typedbox 10ms 9s linear forwards;
 }
@@ -180,8 +180,8 @@ body{
     box-sizing: border-box;
     text-align: left;
     color: #000;
-    font-size: 2.4em;
-    line-height: 1.2em;
+    font-size: 2.6em;
+    line-height: 1em;
     opacity: 0;
     animation: typedbox 10ms 17s linear forwards;
 }
@@ -198,10 +198,10 @@ body{
     box-sizing: border-box;
     text-align: left;
     color: #000;
-    font-size: 2.4em;
-    line-height: 1.2em;
+    font-size: 2.6em;
+    line-height: 1em;
     opacity: 0;
-    animation: typedbox 10ms 26.1s linear forwards;
+    animation: typedbox 10ms 26.3s linear forwards;
 }
 @keyframes typedbox {
     0%{opacity: 0}
@@ -218,7 +218,7 @@ body{
     color: #000;
     font-size: 4em;
     opacity: 0;
-    animation: typedbox 10ms 37s linear forwards;
+    animation: typedbox 10ms 39s linear forwards;
 }
 @keyframes typedbox {
     0%{opacity: 0}
@@ -234,7 +234,7 @@ body{
     line-height: 200px;
     display: block;
     text-align: center;
-    animation: tocase 2s 37s ease-out infinite;
+    animation: tocase 2s 39s ease-out infinite;
     position: absolute;
     bottom: 0;
     left: 0;
